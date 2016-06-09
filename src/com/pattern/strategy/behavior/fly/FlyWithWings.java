@@ -6,7 +6,7 @@
 package com.pattern.strategy.behavior.fly;
 
 /**
- *
+ *使用翅膀飞行
  * @author zhuleqi
  */
 public class FlyWithWings implements FlyBehavior{

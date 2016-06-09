@@ -14,7 +14,7 @@ import com.pattern.strategy.behavior.quack.QuackBehavior;
  * 算法族的客户
  * @author zhuleqi
  */
-public abstract class Duck {
+public  class Duck {
     /**
      * 鸭子的飞行行为
      */
@@ -23,10 +23,31 @@ public abstract class Duck {
      * 鸭子的叫
      */
     private QuackBehavior quackBehavior;
-    public abstract void display();
-    public abstract void swim();
-    public abstract void fly();
-    public abstract void quack();
+
+    public void display() {
+        System.err.println(" 我是鸭子");
+    }
+
+
+    public void swim() {
+        System.err.println(" 我可以在水里游");
+    }
+
+
+    public void fly() {
+        if(this.getFlyBehavior() == null){
+            return;
+        }
+        this.getFlyBehavior().fly();
+    }
+
+   
+    public void quack() {
+        if(this.getQuackBehavior() == null){
+            return ;
+        }
+        this.getQuackBehavior().quack();
+    }
 
     /**
      * @return the flyBehavior

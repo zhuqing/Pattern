@@ -6,7 +6,7 @@
 package com.pattern.strategy.behavior.fly;
 
 /**
- *
+ *不能飞行
  * @author zhuleqi
  */
 public class NoFly implements FlyBehavior{

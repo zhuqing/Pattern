@@ -12,14 +12,14 @@ import com.pattern.strategy.entity.GreenQuack;
  * and open the template in the editor.
  */
 /**
- *  策略模式定义了算法族,分别封装起来,让它们之间相互替换,此模式让算法的变化独立于算法的客户
+ *  策略模式定义了算法族,分别封装起来,让它们之间相互替换,此模式让算法的变化独立于算法的客户.主要使用的设计原则是依赖倒置原则.
  *
  * @author zhuleqi
  */
 public class Strategy {
 
     public static void main(String[] args) {
-        Duck duck = new GreenQuack();
+        Duck duck = new Duck();
         duck.setFlyBehavior(new FlyWithWings());
         duck.setQuackBehavior(new NormalQuack());
         print(duck);

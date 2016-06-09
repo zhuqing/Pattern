@@ -7,7 +7,7 @@ package com.pattern.strategy.behavior.quack;
  */
 
 /**
- *
+ *叫算法族
  * @author zhuleqi
  */
 public interface QuackBehavior {
