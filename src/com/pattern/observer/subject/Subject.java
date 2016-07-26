@@ -6,7 +6,6 @@
 package com.pattern.observer.subject;
 
 import com.pattern.observer.observer.Observer;
-import java.util.List;
 
 /**
  *主题接口

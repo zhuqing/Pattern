@@ -11,7 +11,7 @@ import java.util.Collections;
 import java.util.List;
 
 /**
- *中央电视台新闻发布者
+ *新闻发布者
  * @author zhuleqi
  */
 public class CCTVNews<T extends Observer> implements Subject<T> {
