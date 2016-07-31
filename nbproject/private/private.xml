@@ -3,14 +3,28 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/Users/zhuleqi/GitHub/Pattern/src/com/pattern/observer/decorator/Tax.java</file>
-            <file>file:/Users/zhuleqi/GitHub/Pattern/src/com/pattern/observer/subject/Subject.java</file>
+            <file>file:/Users/zhuleqi/GitHub/Pattern/src/com/pattern/factory/product/SouthTofuJelly.java</file>
+            <file>file:/Users/zhuleqi/GitHub/Pattern/src/com/pattern/command/entity/Light.java</file>
+            <file>file:/Users/zhuleqi/GitHub/Pattern/src/com/pattern/factory/store/Store.java</file>
+            <file>file:/Users/zhuleqi/GitHub/Pattern/src/com/pattern/factory/Factory.java</file>
+            <file>file:/Users/zhuleqi/GitHub/Pattern/src/com/pattern/factory/product/NorthTofuJelly.java</file>
+            <file>file:/Users/zhuleqi/GitHub/Pattern/src/com/pattern/factory/product/BeiJingTofuJelly.java</file>
+            <file>file:/Users/zhuleqi/GitHub/Pattern/src/com/pattern/factory/store/BeiJingStore.java</file>
+            <file>file:/Users/zhuleqi/GitHub/Pattern/src/com/pattern/command/comm/NoCommand.java</file>
+            <file>file:/Users/zhuleqi/GitHub/Pattern/src/com/pattern/command/entity/TV.java</file>
+            <file>file:/Users/zhuleqi/GitHub/Pattern/src/com/pattern/decorator/Decorator.java</file>
+            <file>file:/Users/zhuleqi/GitHub/Pattern/src/com/pattern/command/comm/LightOnCommand.java</file>
+            <file>file:/Users/zhuleqi/GitHub/Pattern/src/com/pattern/factory/product/TofuJelly.java</file>
+            <file>file:/Users/zhuleqi/GitHub/Pattern/src/com/pattern/command/CommandMain.java</file>
+            <file>file:/Users/zhuleqi/GitHub/Pattern/src/com/pattern/factory/store/NorthStore.java</file>
+            <file>file:/Users/zhuleqi/GitHub/Pattern/src/com/pattern/command/comm/LightOffCommand.java</file>
+            <file>file:/Users/zhuleqi/GitHub/Pattern/src/com/pattern/command/Command.java</file>
             <file>file:/Users/zhuleqi/GitHub/Pattern/src/com/pattern/strategy/Strategy.java</file>
             <file>file:/Users/zhuleqi/GitHub/Pattern/src/com/pattern/observer/ObserverMain.java</file>
+            <file>file:/Users/zhuleqi/GitHub/Pattern/src/com/pattern/command/entity/RemoteControl.java</file>
             <file>file:/Users/zhuleqi/GitHub/Pattern/src/com/pattern/observer/observer/NewsReader.java</file>
             <file>file:/Users/zhuleqi/GitHub/Pattern/src/com/pattern/observer/observer/Observer.java</file>
-            <file>file:/Users/zhuleqi/GitHub/Pattern/src/com/pattern/observer/subject/CCTVNews.java</file>
-            <file>file:/Users/zhuleqi/GitHub/Pattern/src/com/pattern/observer/decorator/DecoratorMain.java</file>
+            <file>file:/Users/zhuleqi/GitHub/Pattern/src/com/pattern/factory/store/SouthStore.java</file>
         </group>
     </open-files>
 </project-private>
